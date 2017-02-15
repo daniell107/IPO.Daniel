@@ -9,6 +9,7 @@ int main(){
 	int a = 3;
 	int b = 4;
 	cout << "jajajaj" << endl;
-		cout << "buena esa" << endl;
-	cout<<"ya no es puta :v"<<endl; 
+	cout << "buena esa" << endl;
+	cout<<"ya no es puta :v"<<endl;
+	cout<<"weno zi lo es xd"<<endl; 
 }
