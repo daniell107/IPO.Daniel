@@ -10,4 +10,5 @@ int main(){
 	cout << "jajajaj" << endl;
 	
 	cout << "buena esa" << endl;
+	cout<<"ya no es puta :v"<<endl; 
 }
